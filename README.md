@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Meryanbor
 Novice frontend dev in training,
-I build responsive sites using HTML/CSS/JavaScript.
+I build what comes to mind.
 Always learning. Always building.
 
 <!---
